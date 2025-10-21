@@ -5,16 +5,6 @@
 🧠 Currently exploring **AI applications, UI/UX design, and full-stack development**  
 ✨ I love building meaningful projects that connect people and ideas.  
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kriti-shah-a&show_icons=true&theme=radical&hide_border=true" height="180"/>
-</p>
-
----
-
 ### 💻 Tech Stack
 
 <p align="center">
@@ -35,6 +25,23 @@
 </p>
 
 ---
+### 🚀 Featured Projects
+
+- 🗺️ [**Am I Safe?**](https://github.com/oixel/AmISafe)  
+  A safety visualization tool that maps 100K+ Gainesville crime data using **Leaflet.js**, **OpenStreetMap**, and **real-time filters**.  
+  Helps students assess campus safety through intuitive, data-driven visuals.  
+
+- 🎮 [**StudyUp!**](https://github.com/oixel/StudyUp)  
+  A **React Native** multiplayer study app that gamifies vocabulary learning.  
+  Uses **gyroscope motion detection** for hands-free interaction and real-time team play.  
+
+- ✅ [**DoneTogether**](https://github.com/oixel/DoneTogether)  
+  A collaborative **goal-tracking platform** built with **React**, **TypeScript**, and **MongoDB**.  
+  Features live user updates, daily incentives, and a leaderboard to keep motivation high.  
+
+- 💸 [**Splitsy**](https://github.com/JettNguyen/Splitsy)  
+  A smart **bill-splitting and expense tracker** that integrates **OCR** and **React Native**.  
+  Simplifies group payments with automated cost detection and shared logs. 
 
 ### 🌐 Connect with Me
 
