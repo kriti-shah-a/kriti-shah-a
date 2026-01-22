@@ -2,7 +2,7 @@
 
 🎨 Developer & Designer passionate about blending **creativity and technology**  
 💻 Studying **Computer Science + Marketing** @ University of Florida (Class of 2027)  
-🧠 Currently exploring **AI applications, UI/UX design, and full-stack development**  
+🧠 Currently exploring **AI applications, UI/UX design, and front-end development**  
 ✨ I love building meaningful projects that connect people and ideas.  
 
 ### 💻 Tech Stack
