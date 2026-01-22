@@ -47,6 +47,3 @@
 
 📫 [kritishah989@gmail.com](mailto:kritishah989@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/kritiashah)  
-📷 [Instagram](https://instagram.com/kritixshahx)
-
----
