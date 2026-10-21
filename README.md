@@ -39,7 +39,7 @@ A multi-agent procurement gatekeeper that evaluates purchase requests using mark
 
 A mobile expense-sharing app that simplifies group spending with receipt scanning, shared expense tracking, and REST APIs. Developed with feedback from **10+ user tests**.
 
-### 🪙 Coinify — AI Financial Literacy
+### 🪙 [Coinify — AI Financial Literacy](https://github.com/kriti-shah-a/coinify)
 **BNY AI for Equitable Finance Challenge Winner** | `Python` `FastAPI` `Gemini API` `JavaScript`
 
 Built an AI-powered financial education platform using a **FastAPI backend**, Gemini, and ElevenLabs for adaptive, voice-based learning experiences.
